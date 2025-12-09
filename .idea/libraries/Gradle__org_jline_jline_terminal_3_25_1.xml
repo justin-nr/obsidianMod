@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jline:jline-terminal:3.25.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.jline" artifactId="jline-terminal" version="3.25.1" baseVersion="3.25.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jline/jline-terminal/3.25.1/44e0e53397c39d01c525bad3735097596a7d889a/jline-terminal-3.25.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jline/jline-terminal/3.25.1/85772896cc20d03dda56c5381fdb9e3dfd3278ad/jline-terminal-3.25.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jline/jline-terminal/3.25.1/450021500ccb7bd6b8b3a372ee4ac3825767126a/jline-terminal-3.25.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

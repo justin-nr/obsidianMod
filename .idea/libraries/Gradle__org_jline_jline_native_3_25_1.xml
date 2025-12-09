@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jline:jline-native:3.25.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.jline" artifactId="jline-native" version="3.25.1" baseVersion="3.25.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jline/jline-native/3.25.1/7f58e474f7d94db5bf87b1fddf4fa646475779f2/jline-native-3.25.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jline/jline-native/3.25.1/543a881865de97e507163a557abebac5a8b368fb/jline-native-3.25.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jline/jline-native/3.25.1/35930f57c226e98ea80a828a6b58e54a12b09603/jline-native-3.25.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

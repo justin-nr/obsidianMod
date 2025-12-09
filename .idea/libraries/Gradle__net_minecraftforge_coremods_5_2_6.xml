@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.minecraftforge:coremods:5.2.6" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.minecraftforge" artifactId="coremods" version="5.2.6" baseVersion="5.2.6" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge/coremods/5.2.6/9528a9f2133ec5284122ac3d62cfff8bc8c6bba0/coremods-5.2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge/coremods/5.2.6/d2bc5a697e15892d3b615c9056c705deb987814e/coremods-5.2.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

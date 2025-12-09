@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.minecraftforge:modlauncher:10.2.4" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.minecraftforge" artifactId="modlauncher" version="10.2.4" baseVersion="10.2.4" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge/modlauncher/10.2.4/781dde4dcb54a7bd4f66b256d47e82710939b1bf/modlauncher-10.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge/modlauncher/10.2.4/df48f29afeb5cf9034523c0bfe0cf3f990750cbb/modlauncher-10.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.minecraftforge:bootstrap-api:2.1.8" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.minecraftforge" artifactId="bootstrap-api" version="2.1.8" baseVersion="2.1.8" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge/bootstrap-api/2.1.8/f77d6527282dfc12e2460a3155467f40f9a2673b/bootstrap-api-2.1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge/bootstrap-api/2.1.8/9322a6c42865a5bc988eaa50c8edfb8060d2cc87/bootstrap-api-2.1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

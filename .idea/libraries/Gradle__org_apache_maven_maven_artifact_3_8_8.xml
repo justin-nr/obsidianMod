@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven:maven-artifact:3.8.8" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.maven" artifactId="maven-artifact" version="3.8.8" baseVersion="3.8.8" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.8.8/c4324db6f73f14e1327da2a1acec293d75212ae7/maven-artifact-3.8.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.8.8/19f75729a52c0ddb9276736d215bec9ec11a6a0b/maven-artifact-3.8.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.8.8/512cca9b6114716017ab79ace9b239eb55fd382b/maven-artifact-3.8.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
