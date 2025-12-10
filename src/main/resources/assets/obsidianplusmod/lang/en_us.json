@@ -1,0 +1,29 @@
+{
+  "item.obsidianplusmod.obsidianshard": "Obsidian Shard",
+
+  "block.obsidianplusmod.obsidian_ore": "Obsidian Ore",
+  "block.obsidianplusmod.block_of_obsidian_shard": "Block of Obsidian Shard",
+
+  "creativetab.obsidianplusmod.obsidian_items": "Obsidian Items",
+  "creativetab.obsidianplusmod.obsidian_blocks": "Obsidian Blocks",
+
+  "item.obsidianplusmod.obsidian_sword": "Obsidian Sword",
+  "item.obsidianplusmod.obsidian_axe": "Obsidian Axe",
+  "item.obsidianplusmod.obsidian_pickaxe": "Obsidian Pickaxe",
+  "item.obsidianplusmod.obsidian_shovel": "Obsidian Shovel",
+  "item.obsidianplusmod.obsidian_hoe": "Obsidian Hoe",
+
+  "item.obsidianplusmod.obsidian_helmet": "Obsidian Helmet",
+  "item.obsidianplusmod.obsidian_chestplate": "Obsidian Chestplate",
+  "item.obsidianplusmod.obsidian_leggings": "Obsidian Leggings",
+  "item.obsidianplusmod.obsidian_boots": "Obsidian Boots",
+
+  "item.obsidianplusmod.beef_stew": "Beef Stew",
+  "item.obsidianplusmod.pork_stew": "Pork Stew",
+  "item.obsidianplusmod.chicken_stew": "Chicken Stew",
+  "item.obsidianplusmod.cod_stew": "Cod Stew",
+
+  "item.obsidianplusmod.darude_sandstorm_music_disc": "Darude Sandstorm Music Disc",
+  "item.obsidianplusmod.darude_sandstorm_music_disc.desc": "Darude - Sandstorm"
+
+}

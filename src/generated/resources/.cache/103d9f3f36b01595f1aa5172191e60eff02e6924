@@ -1,0 +1,4 @@
+// 1.21.1	2025-12-09T00:36:40.749782	Registries
+173e682571936c77403cd1eb5b9d8909ff14d2fb data/obsidianplusmod/forge/biome_modifier/add_obsidian_ore.json
+71974aebe772a4e35a75068310b0f8f8c2ab1002 data/obsidianplusmod/worldgen/configured_feature/obsidian_ore.json
+5a52102c47506b1ff2c7b4b146126d8a8227eb34 data/obsidianplusmod/worldgen/placed_feature/obsidian_ore_placed.json

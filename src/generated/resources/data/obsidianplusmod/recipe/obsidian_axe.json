@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "obsidianplusmod:obsidianshard"
+    }
+  },
+  "pattern": [
+    "AA",
+    "A#",
+    " #"
+  ],
+  "result": {
+    "count": 1,
+    "id": "obsidianplusmod:obsidian_axe"
+  }
+}

@@ -1,0 +1,29 @@
+[09Dec2025 03:09:08.612] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_data, --assetIndex, 17, --assetsDir, /Users/justin/.gradle/caches/forge_gradle/assets, --gameDir, ., --mod, obsidianplusmod, --all, --output, /Users/justin/Documents/javaFinal/src/generated/resources, --existing, /Users/justin/Documents/javaFinal/src/main/resources]
+[09Dec2025 03:09:08.613] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 21.0.8+9-LTS
+[09Dec2025 03:09:08.613] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.8 by Microsoft; OS Mac OS X arch aarch64 version 15.7.1
+[09Dec2025 03:09:08.651] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_userdev_data
+[09Dec2025 03:09:08.691] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///Users/justin/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.7/8ab114ac385e6dbdad5efafe28aba4df8120915f/mixin-0.8.7.jar!/ Service=ModLauncher Env=UNKNOWN
+[09Dec2025 03:09:09.052] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[09Dec2025 03:09:09.465] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_data' with arguments [--gameDir, ., --assetsDir, /Users/justin/.gradle/caches/forge_gradle/assets, --assetIndex, 17, --mod, obsidianplusmod, --all, --output, /Users/justin/Documents/javaFinal/src/generated/resources, --existing, /Users/justin/Documents/javaFinal/src/main/resources]
+[09Dec2025 03:09:11.486] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.1.0, for MC 1.21.1 with MCP 20240808.132146
+[09Dec2025 03:09:11.486] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.1.0 Initialized
+[09Dec2025 03:09:11.499] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[09Dec2025 03:09:11.574] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [obsidianplusmod]
+[09Dec2025 03:09:11.594] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/Users/justin/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1/forge-1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1-recomp.jar%230!/assets/.mcassetsroot' uses unexpected schema
+[09Dec2025 03:09:11.594] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/Users/justin/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1/forge-1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1-recomp.jar%230!/data/.mcassetsroot' uses unexpected schema
+[09Dec2025 03:09:11.657] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[09Dec2025 03:09:11.805] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 147 ms
+[09Dec2025 03:09:11.805] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[09Dec2025 03:09:11.824] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 19 ms
+[09Dec2025 03:09:11.825] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id obsidianplusmod
+[09Dec2025 03:09:11.831] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id obsidianplusmod finished after 6 ms
+[09Dec2025 03:09:11.832] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id obsidianplusmod
+[09Dec2025 03:09:11.832] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id obsidianplusmod finished after 0 ms
+[09Dec2025 03:09:11.832] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: obsidianplusmod
+[09Dec2025 03:09:11.841] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: obsidianplusmod finished after 8 ms
+[09Dec2025 03:09:11.841] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: obsidianplusmod
+[09Dec2025 03:09:11.876] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: obsidianplusmod finished after 34 ms
+[09Dec2025 03:09:11.876] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Registries
+[09Dec2025 03:09:11.878] [main/INFO] [net.minecraft.data.DataGenerator/]: Registries finished after 1 ms
+[09Dec2025 03:09:11.878] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 221 ms
+[09Dec2025 03:09:11.880] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 102, old count: 102, new count: 103, removed stale: 0, written: 0

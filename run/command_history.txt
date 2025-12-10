@@ -1,0 +1,50 @@
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/give Dev minecraft:iron_pickaxe
+/give Dev minecraft:wooden_pickaxe
+/give dev anvil
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/give Dev obsidianplusmod:obsidian_pickaxe\
+/give Dev obsidianplusmod:obsidian_pickaxe
+/gamemode creative
+/gamemode survival
+/effect give Dev minecraft:hunger 60
+/effect give Dev minecraft:hunger 60 5
+/gamemode creative
+/gamemode survival
+/effect give @s minecraft:hunger 60 5
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/give Dev minecraft:item_frame 6
+/give Dev minecraft:oak_planks 6
+/gamemode creative
+/give Dev minecraft:armor_stand
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/give Dev minecraft:enchanting_table
+/gamemode creative
+/weather clear
+/give dec minecraft:wayfinder_armor_trim_smithing_template
+/give Dev minecraft:rib_armor_trim_smithing_template
+/summon minecraft:mooshroom
+/gamemode creative
+/gamemode survival
+/gamemode spectator
+/gamemode creative

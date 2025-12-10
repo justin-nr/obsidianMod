@@ -1,0 +1,10 @@
+{
+  "darude_sandstorm": {
+    "sounds": [
+      {
+        "name": "obsidianplusmod:darude_sandstorm",
+        "stream": true
+      }
+    ]
+  }
+}

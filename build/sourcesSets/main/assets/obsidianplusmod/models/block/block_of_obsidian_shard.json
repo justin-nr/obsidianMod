@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "obsidianplusmod:block/block_of_obsidian_shard"
+  }
+}

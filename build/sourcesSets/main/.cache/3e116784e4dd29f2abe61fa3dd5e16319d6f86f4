@@ -1,0 +1,6 @@
+// 1.21.1	2025-12-01T13:35:03.059956	Tags for minecraft:block mod id obsidianplusmod
+f0364a6565629ca6c52a3d2340e17a6e8db1a85c data/minecraft/tags/block/mineable/pickaxe.json
+37c58136405d890186c2088b8bae5f71e27579e7 data/minecraft/tags/block/needs_diamond_tool.json
+3b14401d5c308d39cb66af8e7447816c80b48228 data/minecraft/tags/block/needs_iron_tool.json
+36e5f7ed9e2061bb5e7383041ee94d4b0939d1e3 data/obsidianplusmod/tags/block/incorrect_for_obsidian_tool.json
+bd665a2300581f0875c4dd80454002445ce6182f data/obsidianplusmod/tags/block/needs_obsidian_tool.json

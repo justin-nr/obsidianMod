@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "obsidianplusmod:item/darude_sandstorm_music_disc"
+  }
+}
