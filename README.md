@@ -31,4 +31,4 @@ EVERYTHING CAN BE FOUND IN CREATIVE MODE TABS (Obsidian Mod Creative Mode Tab)
   - Custom Loot Table
     - Obsidian Ore drops:
       - Obsidian Shards
-      - Experience
+      - Experience Orbs
