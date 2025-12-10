@@ -4,7 +4,69 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b331647c-5500-4776-8517-8bb8e89ef0da" name="Changes" comment="BOOM" />
+    <list default="true" id="b331647c-5500-4776-8517-8bb8e89ef0da" name="Changes" comment="BOOM">
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run-data/logs/2025-12-09-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run-data/logs/2025-12-09-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run-data/logs/2025-12-09-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run-data/logs/2025-12-09-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run-data/logs/2025-12-09-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run-data/logs/2025-12-09-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run-data/logs/2025-12-09-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run-data/logs/2025-12-09-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run-data/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run-data/logs/debug-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run-data/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run-data/logs/debug-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run-data/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run-data/logs/debug-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run-data/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run-data/logs/debug-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run-data/logs/debug-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run-data/logs/debug-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run-data/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run-data/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run-data/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run-data/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2025-12-09-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2025-12-09-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2025-12-09-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2025-12-09-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2025-12-09-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2025-12-09-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2025-12-09-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2025-12-09-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2025-12-09-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2025-12-09-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2025-12-09-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2025-12-09-6.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2025-12-09-7.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2025-12-09-7.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2025-12-09-8.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2025-12-09-8.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/DIM-1/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/DIM-1/data/raids.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/DIM1/data/raids_end.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/DIM1/data/raids_end.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/data/raids.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/entities/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/entities/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/entities/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/entities/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/entities/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/entities/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/playerdata/380df991-f603-344c-a090-369bad2a924a.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/playerdata/380df991-f603-344c-a090-369bad2a924a.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/playerdata/380df991-f603-344c-a090-369bad2a924a.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/playerdata/380df991-f603-344c-a090-369bad2a924a.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/region/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/region/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/region/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/stats/380df991-f603-344c-a090-369bad2a924a.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/OBSIDIAN TEST/stats/380df991-f603-344c-a090-369bad2a924a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/ore generation/DIM-1/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/ore generation/DIM-1/data/raids.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/ore generation/DIM1/data/raids_end.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/ore generation/DIM1/data/raids_end.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/ore generation/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/ore generation/data/raids.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/ore generation/entities/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/ore generation/entities/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/ore generation/entities/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/ore generation/entities/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/ore generation/entities/r.1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/ore generation/entities/r.1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/ore generation/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/ore generation/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/ore generation/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/ore generation/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/ore generation/playerdata/380df991-f603-344c-a090-369bad2a924a.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/ore generation/playerdata/380df991-f603-344c-a090-369bad2a924a.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/ore generation/playerdata/380df991-f603-344c-a090-369bad2a924a.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/ore generation/playerdata/380df991-f603-344c-a090-369bad2a924a.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/ore generation/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/ore generation/region/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/ore generation/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/ore generation/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/ore generation/region/r.1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/ore generation/region/r.1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/ore generation/region/r.1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/ore generation/region/r.1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/ore generation/stats/380df991-f603-344c-a090-369bad2a924a.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/ore generation/stats/380df991-f603-344c-a090-369bad2a924a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,12 +124,12 @@
     &quot;assignee&quot;: &quot;justin-nr&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/justin-nr/minecraftModFinal.git&quot;,
-    &quot;accountId&quot;: &quot;c7d2d7fb-78dc-4387-bd30-e6202b247591&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/justin-nr/obsidianMod.git",
+    "accountId": "c7d2d7fb-78dc-4387-bd30-e6202b247591"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -75,28 +137,28 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle./Users/justin/Documents/EXAMPLE MOD/build.gradle.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle./Users/justin/Documents/javaFinal [createMcpToSrg].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Build javaFinal.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.EXAMPLE MOD [createMcpToSrg].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.EXAMPLE MOD [runClient].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.javaFinal [createMcpToSrg].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.javaFinal [runData].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/justin/Documents/javaFinal/src/main/resources/assets/obsidianplusmod/models/item&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle./Users/justin/Documents/EXAMPLE MOD/build.gradle.executor": "Run",
+    "Gradle./Users/justin/Documents/javaFinal [createMcpToSrg].executor": "Run",
+    "Gradle.Build javaFinal.executor": "Run",
+    "Gradle.EXAMPLE MOD [createMcpToSrg].executor": "Run",
+    "Gradle.EXAMPLE MOD [runClient].executor": "Run",
+    "Gradle.javaFinal [createMcpToSrg].executor": "Run",
+    "Gradle.javaFinal [runData].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/justin/Documents/javaFinal/src/main/resources/assets/obsidianplusmod/models/item",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.externalResources"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/assets/obsidianplusmod/models/item" />
@@ -217,7 +279,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765352139291</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="BOOM">
+      <option name="closed" value="true" />
+      <created>1765352628298</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765352628298</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
